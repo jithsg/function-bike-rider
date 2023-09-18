@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from hello import marco
 
 # use fire to turn marco into a CLI

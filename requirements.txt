@@ -4,3 +4,5 @@ ipython
 boto3
 click
 fire
+pytest
+pytest-cov
